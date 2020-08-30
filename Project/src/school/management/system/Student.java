@@ -7,7 +7,7 @@ public class Student {
 	private int feesPaid;
 	private int feesTotal;
 	
-	public Student() {
+	public Student(int id,String name,int grade) {
 		
 	}
 
