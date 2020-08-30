@@ -10,5 +10,12 @@ public class Teacher {
 		this.name=name;
 		this.salary=salary;
 	}
+	public int getId()
+	{
+		return id;
+	}
+	public String getName() {
+		return this.name;
+	}
 
 }
