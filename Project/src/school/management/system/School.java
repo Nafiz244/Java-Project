@@ -1,8 +1,10 @@
 package school.management.system;
 
 public class School {
-	private Teacher teacher;
-	private Student student;
+	private List<Teacher> teachers;
+	private List<Student> students;
+	private int totalMoneyEarned;
+	private int totalMoneySpent;
 	
 
 }
