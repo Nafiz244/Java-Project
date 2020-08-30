@@ -17,6 +17,10 @@ public class School {
 	public void addTeacher(Teacher teacher) {
 		teachers.add(teacher);
 	}
+	public List<Student> getStudents(){
+		return students;
+		
+	}
 	
 
 }
