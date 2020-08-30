@@ -21,6 +21,13 @@ public class School {
 		return students;
 		
 	}
+	public void addStudent(Student student) {
+		students.add(student);
+		
+	}
+	public  int  getTotalMoneyEarned() {
+		return totalMoneyEarned;
+	}
 	
 
 }
