@@ -3,7 +3,7 @@ package school.management.system;
 public class Student {
 	private int id;
 	private String name;
-	private double grade;
+	private int grade;
 	private int feesPaid;
 	private int feesTotal;
 	
@@ -16,7 +16,7 @@ public class Student {
 		
 		
 	}
-   public void setGrade(double grade)
+   public void setGrade(int grade)
    {
 	   this.grade=grade;
    }
