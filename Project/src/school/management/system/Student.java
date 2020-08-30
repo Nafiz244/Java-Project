@@ -34,6 +34,13 @@ public class Student {
    public double getGrade() {
 	   return grade;
    }
+   public int getFeesPaid(){
+		return feesPaid;
+		
+	}
+	public int getFeesTotal(){
+		return feesTotal;
+	}
    
 
 }
