@@ -16,7 +16,7 @@ public class Student {
 		
 		
 	}
-   public void setGrade(int grade)
+   public void setGrade(double grade)
    {
 	   this.grade=grade;
    }
