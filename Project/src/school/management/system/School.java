@@ -29,5 +29,16 @@ public class School {
 		return totalMoneyEarned;
 	}
 	
+    public void  updateTotalMoneyEarned(int MoneyEarned) {
+	    totalMoneyEarned +=MoneyEarned;
+     }
+    public int getTotalMoneySpent() {
+	    return totalMoneySpent;
+	
+     }
+     public void updateTotalMoneySpent(int MoneySpent) {
+	     totalMoneyEarned-=MoneySpent;
+     }
+	
 
 }
