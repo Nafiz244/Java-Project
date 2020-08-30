@@ -31,6 +31,9 @@ public class Student {
    public String getName() {
 	   return name;
    }
+   public double getGrade() {
+	   return grade;
+   }
    
 
 }
