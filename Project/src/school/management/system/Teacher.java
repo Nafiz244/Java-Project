@@ -4,5 +4,7 @@ public class Teacher {
 	private int id;
 	private String name;
 	private int salary;
+	
+	public Teacher(int id,String Name,int salary);
 
 }
