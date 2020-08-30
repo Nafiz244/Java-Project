@@ -5,6 +5,10 @@ public class Teacher {
 	private String name;
 	private int salary;
 	
-	public Teacher(int id,String Name,int salary);
+	public Teacher(int id,String Name,int salary) {
+		this.id=id;
+		this.name=name;
+		this.salary=salary;
+	}
 
 }
