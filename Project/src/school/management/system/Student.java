@@ -7,7 +7,7 @@ public class Student {
 	private int feesPaid;
 	private int feesTotal;
 	
-	public student() {
+	public Student() {
 		
 	}
 
