@@ -1,6 +1,8 @@
 package school.management.system;
 
 public class School {
-	rrrrtrrreee
+	private Teacher teacher;
+	private Student student;
+	
 
 }
