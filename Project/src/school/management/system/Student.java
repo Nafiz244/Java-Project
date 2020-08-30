@@ -16,5 +16,12 @@ public class Student {
 		
 		
 	}
+ public void setGrade(int grade)
+ {
+	this.grade=grade;
+ }
+ public void updateFessPaid(int fees) {
+	 
+ }
 
 }
