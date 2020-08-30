@@ -5,5 +5,6 @@ public class Student {
 	private String name;
 	private int grade;
 	private int feesPaid;
+	private int feesTotal;
 
 }
