@@ -20,5 +20,8 @@ public class Teacher {
 	public int getSalary() {
 		return salary;
 	}
+	public void setSalary() {
+		this.salary=salary;
+	}
 
 }
