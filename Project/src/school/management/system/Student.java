@@ -6,5 +6,9 @@ public class Student {
 	private int grade;
 	private int feesPaid;
 	private int feesTotal;
+	
+	public student() {
+		
+	}
 
 }
