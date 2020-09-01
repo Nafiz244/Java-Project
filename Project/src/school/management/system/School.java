@@ -39,8 +39,4 @@ public class School {
      public void updateTotalMoneySpent(int MoneySpent) {
 	     totalMoneyEarned-=MoneySpent;
      }
-  package school.managemen.system;
-	public class Main{
-        public static void main(string[] args ){		
-
-}
+  
